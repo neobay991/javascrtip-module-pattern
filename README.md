@@ -1,6 +1,6 @@
 # JavaScript module pattern
 
-These are exercises I have worked on to learn and understand the
+These are short exercises I have worked on to learn and understand the
 JavaScript module pattern.
 
 ### Implement the module pattern (30 mins)
